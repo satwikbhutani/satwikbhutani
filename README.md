@@ -32,7 +32,6 @@ A smart travel assistant that helps users plan trips effortlessly based on their
 
 🔗 **Live Demo**: [Atlas AI Trip Planner](https://atlas-ai-trip-planner.vercel.app/)  
 
----
 
 ### 🎮 **Bubble Game**  
 A fun and engaging JavaScript-based game where players pop bubbles matching a given number within a time limit.  
