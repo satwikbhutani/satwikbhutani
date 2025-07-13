@@ -7,6 +7,7 @@
 
 ## 🔭 Currently Working On:  
 - Web development projects using **HTML, CSS, JavaScript, and React.js**  
+- **UNMUTE - Real-Time Chat & Video Calling App** 🎤🔇 (A social platform to connect strangers based on interests)  
 - **Atlas - AI-Powered Trip Planner** 🌍🚀 (An intelligent travel planning tool using AI and Google APIs)  
 - Building interactive and engaging web applications  
 
@@ -14,15 +15,28 @@
 
 ## 🌱 Learning & Growing In:  
 - **Frontend Development**: Mastering **React.js**, animations, and UI/UX design  
-- **Backend Development**: Exploring **Node.js, Express.js, and Firebase**  
+- **Backend Development**: Exploring **Node.js, Express.js, MongoDB, and Firebase**  
 - **Data Structures & Algorithms**: Improving problem-solving skills through **LeetCode and CodeChef**  
 
 ---
 
 ## 🚀 Notable Projects  
 
-### 🏆 **Atlas - AI-Powered Trip Planner**  
-A smart travel assistant that helps users plan trips effortlessly based on their preferences.  
+### 🎤 **UNMUTE - Real-Time Chat & Video Calling Web App**  
+A social platform that helps lonely individuals connect 1:1 through chat and video calls based on shared interests, location, and language — works on a friend request model.
+
+**Tech Highlights**:  
+✅ **Real-Time Communication** via Stream SDKs with ~100ms latency  
+✅ **JWT Authentication**, protected routes, and onboarding  
+✅ **Scalable Backend** using Node.js, Express.js, MongoDB (500+ requests/sec)  
+✅ **Responsive UI** with React.js, Tailwind CSS, React Query (20+ modular views)  
+✅ **Custom Chat UI** with 35+ theme toggles and dark mode  
+
+🔗 **Live Demo**: *(Link coming soon)*  
+
+
+### 🧠 **Atlas - AI-Powered Trip Planner**  
+An AI-driven platform that helps users generate complete itineraries, hotel recommendations, and transport options.
 
 **Tech Stack**:  
 ✅ **React.js + Tailwind CSS** for an interactive UI  
