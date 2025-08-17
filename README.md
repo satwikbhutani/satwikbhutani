@@ -1,22 +1,23 @@
 # Hi there! 👋 I'm Satwik Bhutani  
 
 🎓 **Student at Delhi Technological University (DTU)**  
-💻 **Aspiring Software Developer & Tech Enthusiast**  
+💻 **Aspiring Full Stack Developer & Tech Enthusiast**  
 
 ---
 
 ## 🔭 Currently Working On  
-- Web development projects using **HTML, CSS, JavaScript, and React.js**  
+- **Full Stack Web Development Projects** using **React.js, Node.js, Express.js, MongoDB, and Firebase**  
 - **UNMUTE - Real-Time Chat & Video Calling App** 🎤🔇 (A social platform to connect strangers based on interests)  
 - **Atlas - AI-Powered Trip Planner** 🌍🚀 (An intelligent travel planning tool using AI and Google APIs)  
-- Building interactive and engaging web applications  
+- Building interactive and engaging web applications with modern tech stacks  
 
 ---
 
 ## 🌱 Learning & Growing In  
-- **Frontend Development**: Mastering **React.js**, animations, and UI/UX design  
-- **Backend Development**: Exploring **Node.js, Express.js, MongoDB, and Firebase**  
-- **Data Structures & Algorithms**: Improving problem-solving skills through **LeetCode and CodeChef**  
+- **Frontend Development**: React.js, Tailwind CSS, animations, and UI/UX design  
+- **Backend Development**: Node.js, Express.js, MongoDB, Firebase  
+- **AI & Computer Vision**: Applying ML models to real-world problems  
+- **Data Structures & Algorithms**: Competitive programming on **LeetCode, CodeChef, and CodeForces**  
 
 ---
 
@@ -43,7 +44,7 @@ A social platform that helps individuals connect 1:1 through chat and video call
 ✅ Responsive UI with React.js, Tailwind CSS, React Query (20+ modular views)  
 ✅ Custom Chat UI with 35+ theme toggles and dark mode  
 
-🔗 **Live Demo**: *(Link coming soon)*  
+🔗 **Live Demo**: [Unmute - Connect. Chat. Collab](https://unmute-eqf5.onrender.com/)  
 
 ---
 
@@ -54,6 +55,7 @@ An AI-driven platform that helps users generate itineraries, hotel recommendatio
 ✅ React.js + Tailwind CSS for an interactive UI  
 ✅ Gemini API & Google Maps API for AI-powered recommendations and navigation  
 ✅ Google OAuth & Firebase for authentication and trip history storage  
+✅ Node.js + Express.js for backend APIs  
 ✅ Vercel for fast and reliable deployment  
 
 🔗 **Live Demo**: [Atlas AI Trip Planner](https://atlas-ai-trip-planner.vercel.app/)  
@@ -73,15 +75,3 @@ A clean and minimalistic web-based notes application for easy note-taking and or
 
 ## 🚀 Participating In  
 💡 **Hackathons** to push my limits and build innovative solutions.  
-
-
----
-
-## 📫 How to Reach Me  
-📧 **Email**: [satwik.bhutani@gmail.com](mailto:satwik.bhutani@gmail.com) | [satwikbhutani_it22a10_24@dtu.ac.in](mailto:satwikbhutani_it22a10_24@dtu.ac.in)  
-🔗 **LinkedIn**: [Satwik Bhutani](https://www.linkedin.com/in/satwikbhutani/)  
-
----
-
-🌟 **Let's Connect & Collaborate!**  
-I love working on **open-source projects** and learning from the **tech community**. Feel free to reach out for **exciting opportunities** or just to say hi! 😊🚀  
